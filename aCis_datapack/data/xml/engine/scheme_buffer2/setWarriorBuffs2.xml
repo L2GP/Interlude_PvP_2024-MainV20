@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<buff id="1204" lvl="115" /><!-- Wind Walk -->
+	<buff id="1062" lvl="115" /><!-- Berserkert Spirit -->
+	<buff id="1068" lvl="115" /><!-- Might -->
+	<buff id="1388" lvl="115" /><!-- Greater Might -->
+	<buff id="1040" lvl="115" /><!-- Shield -->
+	<buff id="1086" lvl="115" /><!-- Haste -->
+	<buff id="1268" lvl="115" /><!-- Vampiric Rage -->
+	<buff id="1077" lvl="115" /><!-- Focus -->
+	<buff id="1242" lvl="115" /><!-- Death Whisper -->
+	<buff id="1240" lvl="115" /><!-- Guidance -->
+	<buff id="1087" lvl="115" /><!-- Agility -->
+	<buff id="1036" lvl="115" /><!-- Magic Barrier -->
+	<buff id="1045" lvl="115" /><!-- Blessed Body -->
+	<buff id="1259" lvl="115" /><!-- Resist Shock -->
+	<buff id="1323" lvl="1" /><!-- Noblesse -->
+	<buff id="1363" lvl="115" /><!-- Chant of Victory -->
+	<buff id="4699" lvl="13" /><!-- Blessing of Queen -->
+	<buff id="268" lvl="115" /><!-- Song of Wind -->
+	<buff id="266" lvl="115" /><!-- Song of Water -->
+	<buff id="264" lvl="115" /><!-- Song of Earth -->
+	<buff id="269" lvl="115" /><!-- Song of Hunter -->
+	<buff id="304" lvl="115" /><!-- Song of Vitality -->
+	<buff id="267" lvl="115" /><!-- Song of Warding -->
+	<buff id="364" lvl="115" /><!-- Song of champion -->
+	<buff id="275" lvl="115" /><!-- Dance of Fury -->
+	<buff id="271" lvl="115" /><!-- Dance of Warrior -->
+	<buff id="274" lvl="115" /><!-- Dance of Fire -->
+	<buff id="310" lvl="115" /><!-- Dance of Vampire -->
+	<buff id="272" lvl="115" /><!-- Dance of Inspiration -->
+</list>

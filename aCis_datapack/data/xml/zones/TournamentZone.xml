@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>	
+	<zone type="TournamentZone" shape="NPoly" minZ="-3400" maxZ="-3125"><!-- olympiad_stadium_22 -->
+		<node X="-113674" Y="-214060" />
+		<node X="-113389" Y="-213710" />
+		<node X="-113389" Y="-212679" />
+		<node X="-113674" Y="-212329" />
+		<node X="-115399" Y="-212329" />
+		<node X="-115684" Y="-212679" />
+		<node X="-115684" Y="-213710" />
+		<node X="-115399" Y="-214060" />
+		<!-- point1 -->
+		<spawn X="-113674" Y="-213194" Z="-3327" />
+		<!-- point2 -->
+		<spawn X="-115399" Y="-213194" Z="-3327" />
+		<!-- spectator -->
+		<spawn X="-114536" Y="-213194" Z="-3327" />
+	</zone>
+</list>

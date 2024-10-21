@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<item id="38000" type="EtcItem" name="Clan Full">
+       <set name="material" val="STEEL" />
+	   <set name="price" val="1" />
+       <set name="is_destroyable" val="false" />
+       <set name="is_dropable" val="false" />
+       <set name="is_sellable" val="false" />
+       <set name="is_stackable" val="true" />
+       <set name="handler" val="ClanFull" />
+	</item>
+	<item id="38001" type="EtcItem" name="Clan Level">
+       <set name="material" val="STEEL" />
+	   <set name="price" val="1" />
+       <set name="is_destroyable" val="false" />
+       <set name="is_dropable" val="false" />
+       <set name="is_sellable" val="false" />
+       <set name="is_stackable" val="true" />
+       <set name="handler" val="ClanFull" />
+	</item>
+	<item id="38002" type="EtcItem" name="Clan Reputation">
+       <set name="material" val="STEEL" />
+	   <set name="price" val="1" />
+       <set name="is_destroyable" val="false" />
+       <set name="is_dropable" val="false" />
+       <set name="is_sellable" val="false" />
+       <set name="is_stackable" val="true" />
+       <set name="handler" val="ClanFull" />
+	</item>
+	<item id="38003" type="EtcItem" name="Nobless Letters">
+       <set name="material" val="STEEL" />
+	   <set name="price" val="1" />
+       <set name="is_destroyable" val="true" />
+       <set name="is_dropable" val="false" />
+       <set name="is_sellable" val="false" />
+       <set name="is_stackable" val="false" />
+       <set name="handler" val="Nobless" />
+	</item>
+	<item id="38004" type="EtcItem" name="Vip 1 Day">
+       <set name="material" val="STEEL" />
+	   <set name="price" val="1" />
+       <set name="is_destroyable" val="true" />
+       <set name="is_dropable" val="false" />
+       <set name="is_sellable" val="false" />
+       <set name="is_stackable" val="false" />
+       <set name="handler" val="Vip" />
+	</item>
+	<item id="38005" type="EtcItem" name="Vip 7 Day">
+       <set name="material" val="STEEL" />
+	   <set name="price" val="1" />
+       <set name="is_destroyable" val="true" />
+       <set name="is_dropable" val="false" />
+       <set name="is_sellable" val="false" />
+       <set name="is_stackable" val="false" />
+       <set name="handler" val="Vip" />
+	</item>
+	<item id="38006" type="EtcItem" name="Vip 15 Day">
+       <set name="material" val="STEEL" />
+	   <set name="price" val="1" />
+       <set name="is_destroyable" val="true" />
+       <set name="is_dropable" val="false" />
+       <set name="is_sellable" val="false" />
+       <set name="is_stackable" val="false" />
+       <set name="handler" val="Vip" />
+	</item>
+	<item id="38007" type="EtcItem" name="Vip 30 Day">
+       <set name="material" val="STEEL" />
+	   <set name="price" val="1" />
+       <set name="is_destroyable" val="true" />
+       <set name="is_dropable" val="false" />
+       <set name="is_sellable" val="false" />
+       <set name="is_stackable" val="false" />
+       <set name="handler" val="Vip" />
+	</item>
+	<item id="38008" type="EtcItem" name="Aio 7 Day">
+       <set name="material" val="STEEL" />
+	   <set name="price" val="1" />
+       <set name="is_destroyable" val="true" />
+       <set name="is_dropable" val="false" />
+       <set name="is_sellable" val="false" />
+       <set name="is_stackable" val="false" />
+       <set name="handler" val="Aio" />
+	</item>
+	<item id="38009" type="EtcItem" name="Aio 15 Day">
+       <set name="material" val="STEEL" />
+	   <set name="price" val="1" />
+       <set name="is_destroyable" val="true" />
+       <set name="is_dropable" val="false" />
+       <set name="is_sellable" val="false" />
+       <set name="is_stackable" val="false" />
+       <set name="handler" val="Aio" />
+	</item>
+	<item id="38010" type="EtcItem" name="Aio 30 Day">
+       <set name="material" val="STEEL" />
+	   <set name="price" val="1" />
+       <set name="is_destroyable" val="true" />
+       <set name="is_dropable" val="false" />
+       <set name="is_sellable" val="false" />
+       <set name="is_stackable" val="false" />
+       <set name="handler" val="Aio" />
+	</item>
+</list>

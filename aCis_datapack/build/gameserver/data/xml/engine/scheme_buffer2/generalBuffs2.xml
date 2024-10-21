@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<buff type="BUFF" id="1204" lvl="115" /><!-- Wind Walk -->
+	<buff type="BUFF" id="1062" lvl="115" /><!-- Berserkert Spirit -->
+	<buff type="BUFF" id="1068" lvl="115" /><!-- Might -->
+	<buff type="BUFF" id="1388" lvl="115" /><!-- Greater Might -->
+	<buff type="BUFF" id="1040" lvl="115" /><!-- Shield -->
+	<buff type="BUFF" id="1389" lvl="115" /><!-- Greater Shield -->
+	<buff type="BUFF" id="1086" lvl="115" /><!-- Haste -->
+	<buff type="BUFF" id="1268" lvl="115" /><!-- Vampiric Rage -->
+	<buff type="BUFF" id="1077" lvl="115" /><!-- Focus -->
+	<buff type="BUFF" id="1242" lvl="115" /><!-- Death Whisper -->
+	<buff type="BUFF" id="1240" lvl="115" /><!-- Guidance -->
+	<buff type="BUFF" id="1087" lvl="115" /><!-- Agility -->
+	<buff type="BUFF" id="1036" lvl="115" /><!-- Magic Barrier -->
+	<buff type="BUFF" id="1045" lvl="115" /><!-- Blessed Body -->
+	<buff type="BUFF" id="1048" lvl="115" /><!-- Blessed Soul -->
+	<buff type="BUFF" id="1085" lvl="115" /><!-- Acumen -->
+	<buff type="BUFF" id="1059" lvl="115" /><!-- Empower -->
+	<buff type="BUFF" id="1303" lvl="115" /><!-- Wild Magic -->
+	<buff type="BUFF" id="1307" lvl="115" /><!-- Prayer -->
+	<buff type="BUFF" id="1397" lvl="115" /><!-- Clarity -->
+	<buff type="BUFF" id="1047" lvl="4" /><!-- Mana Regeneration -->
+	<buff type="BUFF" id="1243" lvl="115" /><!-- Bless Shield -->
+	<buff type="BUFF" id="1304" lvl="115" /><!-- Advance Block -->
+	<buff type="BUFF" id="1043" lvl="115" /><!-- Holy Weapon -->
+	<buff type="BUFF" id="1044" lvl="115" /><!-- Regeneration -->
+	<buff type="RESIST" id="1035" lvl="115" /><!-- Mental Shield -->
+	<buff type="RESIST" id="1078" lvl="115" /><!-- Concentration -->
+	<buff type="RESIST" id="1259" lvl="115" /><!-- Resist Shock -->
+	<buff type="RESIST" id="1182" lvl="115" /><!-- Resist Aqua -->
+	<buff type="RESIST" id="1189" lvl="115" /><!-- Resist Wind -->
+	<buff type="RESIST" id="1191" lvl="115" /><!-- Resist Fire -->
+	<buff type="RESIST" id="1548" lvl="115" /><!-- Resist Earth -->
+	<buff type="RESIST" id="1392" lvl="115" /><!-- Holy Resist -->
+	<buff type="RESIST" id="1393" lvl="115" /><!-- Unholy Resist -->
+	<buff type="RESIST" id="1352" lvl="115" /><!-- Elemental Protection -->
+	<buff type="RESIST" id="1353" lvl="115" /><!-- Divine Protection -->
+	<buff type="RESIST" id="1354" lvl="115" /><!-- Arcane Protection -->
+	<buff type="RESIST" id="1033" lvl="115" /><!-- Resit Poison -->
+	<buff type="RESIST" id="1032" lvl="115" /><!-- Invigor -->
+	<buff type="SONG" id="268" lvl="115" /><!-- Song of Wind -->
+	<buff type="SONG" id="266" lvl="115" /><!-- Song of Water -->
+	<buff type="SONG" id="264" lvl="115" /><!-- Song of Earth -->
+	<buff type="SONG" id="269" lvl="115" /><!-- Song of Hunter -->
+	<buff type="SONG" id="304" lvl="115" /><!-- Song of Vitality -->
+	<buff type="SONG" id="267" lvl="115" /><!-- Song of Warding -->
+	<buff type="SONG" id="349" lvl="115" /><!-- Song of Renewal -->
+	<buff type="SONG" id="364" lvl="115" /><!-- Song of champion -->
+	<buff type="SONG" id="363" lvl="115" /><!-- Song of Meditation -->
+	<buff type="SONG" id="305" lvl="115" /><!-- Song of Vengeance -->
+	<buff type="SONG" id="270" lvl="115" /><!-- Song of Invocation -->
+	<buff type="SONG" id="306" lvl="115" /><!-- Song of Flame Guard -->
+	<buff type="SONG" id="308" lvl="115" /><!-- Song of Storm Guard -->
+	<buff type="SONG" id="265" lvl="115" /><!-- Song of Life -->
+	<buff type="DANCE" id="275" lvl="115" /><!-- Dance of Fury -->
+	<buff type="DANCE" id="271" lvl="115" /><!-- Dance of Warrior -->
+	<buff type="DANCE" id="274" lvl="115" /><!-- Dance of Fire -->
+	<buff type="DANCE" id="310" lvl="115" /><!-- Dance of Vampire -->
+	<buff type="DANCE" id="272" lvl="115" /><!-- Dance of Inspiration -->
+	<buff type="DANCE" id="276" lvl="115" /><!-- Dance of Concentration -->
+	<buff type="DANCE" id="273" lvl="115" /><!-- Dance of Mystic -->
+	<buff type="DANCE" id="365" lvl="115" /><!-- Dance of Siren -->
+	<buff type="DANCE" id="277" lvl="115" /><!-- Dance of Light -->
+	<buff type="DANCE" id="307" lvl="115" /><!-- Dance of Aqua Guard -->
+	<buff type="DANCE" id="309" lvl="115" /><!-- Dance of Earth Guard -->
+	<buff type="DANCE" id="311" lvl="115" /><!-- Dance of Protection -->
+	<buff type="DANCE" id="366" lvl="115" /><!-- Dance of Shadow -->
+	<buff type="SPECIAL" id="1323" lvl="1" /><!-- Noblesse -->
+	<buff type="SPECIAL" id="1355" lvl="115" /><!-- Prophecy of Water -->
+	<buff type="SPECIAL" id="1356" lvl="115" /><!-- Prophecy of Fire -->
+	<buff type="SPECIAL" id="1357" lvl="115" /><!-- Prophecy of Wind -->
+	<buff type="SPECIAL" id="1363" lvl="115" /><!-- Chant of Victory -->
+	<buff type="SPECIAL" id="1413" lvl="115" /><!-- Magnuz Chant -->
+	<buff type="SPECIAL" id="1414" lvl="115" /><!-- Aliance Victory -->
+	<buff type="SPECIAL" id="1284" lvl="115" /><!-- Chant of Revenge -->
+	<buff type="SPECIAL" id="4699" lvl="13" /><!-- Blessing of Queen -->
+	<buff type="SPECIAL" id="4700" lvl="13" /><!-- Gif of Queen -->
+	<buff type="SPECIAL" id="4702" lvl="13" /><!-- Blessing of seraphim -->
+	<buff type="SPECIAL" id="4703" lvl="13" /><!-- Gif of seraphim -->
+	<buff type="CHANT" id="1002" lvl="115" />
+	<buff type="CHANT" id="1006" lvl="115" />
+	<buff type="CHANT" id="1007" lvl="115" />
+	<buff type="CHANT" id="1009" lvl="115" />
+	<buff type="CHANT" id="1251" lvl="115" />
+	<buff type="CHANT" id="1252" lvl="115" />
+	<buff type="CHANT" id="1253" lvl="115" />
+	<buff type="CHANT" id="1308" lvl="115" />
+	<buff type="CHANT" id="1309" lvl="115" />
+	<buff type="CHANT" id="1310" lvl="115" />
+	<buff type="CHANT" id="1362" lvl="115" />
+	<buff type="CUBIC" id="67" lvl="7" />
+	<buff type="CUBIC" id="10" lvl="8" />
+	<buff type="CUBIC" id="22" lvl="7" />
+	<buff type="CUBIC" id="33" lvl="8" />
+	<buff type="CUBIC" id="278" lvl="6" />
+	<buff type="CUBIC" id="449" lvl="4" />
+	<buff type="CUBIC" id="1279" lvl="9" />
+	<buff type="CUBIC" id="1280" lvl="9" />
+	<buff type="CUBIC" id="1281" lvl="9" />
+	<buff type="CUBIC" id="1328" lvl="8" />
+	<buff type="CUBIC" id="1329" lvl="9" />
+	<buff type="CUBIC" id="1330" lvl="8" />
+	
+	
+	<buff type="CHANT" id="1003" lvl="115" />
+	<buff type="CHANT" id="1004" lvl="115" />
+	<buff type="CHANT" id="1005" lvl="115" />
+	<buff type="CHANT" id="1008" lvl="115" />
+	<buff type="CHANT" id="1249" lvl="115" />
+	<buff type="CHANT" id="1250" lvl="115" />
+	<buff type="CHANT" id="1260" lvl="115" />
+	<buff type="CHANT" id="1261" lvl="115" />
+	<buff type="CHANT" id="1282" lvl="115" />
+	<buff type="CHANT" id="1364" lvl="115" />
+	<buff type="CHANT" id="1365" lvl="115" />
+	<buff type="CHANT" id="1415" lvl="115" />
+	<buff type="CHANT" id="1416" lvl="115" />
+</list>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<buff id="1204" lvl="130" /><!-- Wind Walk -->
+	<buff id="1062" lvl="130" /><!-- Berserkert Spirit -->
+	<buff id="1040" lvl="130" /><!-- Shield -->
+	<buff id="1389" lvl="130" /><!-- Greater Shield -->
+	<buff id="1036" lvl="130" /><!-- Magic Barrier -->
+	<buff id="1045" lvl="130" /><!-- Blessed Body -->
+	<buff id="1048" lvl="130" /><!-- Blessed Soul -->
+	<buff id="1085" lvl="130" /><!-- Acumen -->
+	<buff id="1059" lvl="130" /><!-- Empower -->
+	<buff id="1303" lvl="130" /><!-- Wild Magic -->
+	<buff id="1397" lvl="130" /><!-- Clarity -->
+	<buff id="1047" lvl="4" /><!-- Mana Regeneration -->
+	<buff id="1243" lvl="130" /><!-- Bless Shield -->
+	<buff id="1304" lvl="130" /><!-- Advance Block -->
+	<buff id="1035" lvl="130" /><!-- Mental Shield -->
+	<buff id="1078" lvl="130" /><!-- Concentration -->
+	<buff id="1259" lvl="130" /><!-- Resist Shock -->
+	<buff id="1323" lvl="1" /><!-- Noblesse -->
+	<buff id="1413" lvl="130" /><!-- Magnuz Chant -->
+	<buff id="4703" lvl="13" /><!-- Gif of seraphim -->	
+	<buff id="268" lvl="130" /><!-- Song of Wind -->
+	<buff id="264" lvl="130" /><!-- Song of Earth -->
+	<buff id="304" lvl="130" /><!-- Song of Vitality -->
+	<buff id="267" lvl="130" /><!-- Song of Warding -->
+	<buff id="349" lvl="130" /><!-- Song of Renewal -->
+	<buff id="363" lvl="130" /><!-- Song of Meditation -->
+	<buff id="276" lvl="130" /><!-- Dance of Concentration -->
+	<buff id="273" lvl="130" /><!-- Dance of Mystic -->
+	<buff id="365" lvl="130" /><!-- Dance of Siren -->
+</list>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<!-- PVP Zones 
+	Las zonas Arena las estoy utilizando para la zona MultiFunctionZone.
+	No es posible superponer zonas ya que tienen diferentes caracteristicas,
+	y podrían generar conflictos en los condicionales que caracterizan cada zona.	
+	-->
+	
+	<!-- PVP Zones 
+	I am using the Arena zones for the MultiFunctionZone zone.
+	It is not possible to superimpose zones as they have different characteristics,
+	and could generate conflicts in the conditionals that characterize each zone.	
+	-->
+	
+</list>
